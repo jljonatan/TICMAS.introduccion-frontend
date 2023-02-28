@@ -1,0 +1,44 @@
+body {
+    text-transform: capitalize;
+    background-color: lightgray;
+}
+
+header {
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    text-transform: capitalize;
+}
+
+main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.imagen {
+    border: double 10px;
+}
+
+h6 {
+    text-decoration: underline;
+}
+
+#email {
+    text-transform: lowercase;
+}
+
+#section-experiencia-laboral,
+#section-estudios-certificaciones {
+    display: none;
+}
+
+#section-destrezas-idiomas {
+    display: block;
+}
